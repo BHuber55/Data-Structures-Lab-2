@@ -1,6 +1,8 @@
 #if !defined RANDOM_H
 #define RANDOM_H
 
+//Random Comment to test git
+
 class Random
 {
    private:
